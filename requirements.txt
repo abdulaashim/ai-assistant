@@ -1,0 +1,4 @@
+psycopg2==2.9.5
+transformers==4.28.1
+pandas==1.5.3
+torch==1.13.0
